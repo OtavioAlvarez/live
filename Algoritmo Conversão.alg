@@ -20,7 +20,7 @@ escreval("Deseja confirmar a acao? Digite o número desejado")
       leia(distancia)
       escreval
       distancia1 <- distancia * 1000
-      escreval("", distancia, " quilometro(s) equivale a ", distancia1, " metro(s)")
+      escreval("", distancia, " quilometro(s) equivale a ", distancia, " metro(s)")
       distancia <- 0
       distancia1 <- 0
       escreval
@@ -35,6 +35,8 @@ escreval("Deseja confirmar a acao? Digite o número desejado")
          volume <- 0
          volume1 <- 0
          escreval
+         senao
+         escreval("opcao invalida")
       fimse
    fimse
 ate opcao = "3"
