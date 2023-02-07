@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
-// Autor :
+// Função : Conversor de medidas
+// Autor : Otávio Alvarez
 // Data : 02/02/2023
-// Seção de Declarações 
+// Arquivo criado para exercício da Pacetech! Desde já agradeço a oportunidade do mesmo para assim aprender e focar a ampliar o meu curriculo escolar!
 var
 opcao: literal
 distancia, distancia1, volume, volume1: real
